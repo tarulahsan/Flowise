@@ -23,7 +23,7 @@ frontend:
             - npm run build
         deploy:
             - npm install
-    subdomain: AIAgents
-name: AIAgents
+    subdomain: AI-Agents
+name: AI-Agents
 region: us-east-1
 yamlVersion: 2
